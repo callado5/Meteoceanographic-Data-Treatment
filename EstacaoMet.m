@@ -1,3 +1,9 @@
+%-------------------------------------------%
+%               Marco Callado               %
+%                24-11-2023                 %
+%            mavcallado@gmail.com           %
+%-------------------------------------------%
+
 %Loading the station data
 
 Dados = readtable('rel_24-11-23_08-27-08.xls'); % put your excel, csv or txt file here
