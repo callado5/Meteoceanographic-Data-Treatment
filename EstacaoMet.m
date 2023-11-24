@@ -48,7 +48,6 @@ title('Precipitação (mm)')
 %% For my wind rose plot please check: https://dpereira.asempyme.com/windrose/
 % And for my colormaps i used: https://www.mathworks.com/matlabcentral/fileexchange/120088-200-colormap
 
-addpath('C:\Users\mavca\OneDrive\Documentos\Cotonho\Rotinas MAT\COLORMAPS\slanCM\slanCM')
 Options = {'anglenorth', 0, 'angleeast', 90, 'labels',{'N','NE','E','SE','S','SW','W','NW'}, 'freqlabelangle', 50,...
     'TitleString','Velocidade dos ventos Água Preta','LabLegend', 'Intensidade m/s','nDirections',15,...
     'cMap', slanCM(85), 'LegendType',1, 'Min_Radius', 0};
