@@ -27,9 +27,10 @@ for i = 1:length(text_names)
 end
 
 %% Filtering
-%Descending rate = 4
-%Depth Fresh = 1
-for i = 1:length(df)
+%Descending rate = data(:,4) 
+%Depth Fresh = data(:,1)
+
+for i = 1:length(df) % A loop for each profile
     
 %Pegando apenas a descida
     m=1;
