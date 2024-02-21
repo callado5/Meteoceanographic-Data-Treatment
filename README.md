@@ -1,0 +1,1 @@
+This repository is a colection of scripts I used in my Msc. degree, where i worked with some oceanographic intruments(CTD, ADCP, current and water level sensors) and treated the data using python and matlab.
